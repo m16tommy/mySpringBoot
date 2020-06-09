@@ -7,6 +7,6 @@
 <title>Index</title>
 </head>
 <body>
-<h1>Hello SpringBoot!!</h1>
+<h1>SpringBoot Index!!</h1>
 </body>
 </html>
